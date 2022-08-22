@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Nhap user number: "
+read i
+mkdir -p MyFolder/current_user_$i
